@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stellan Söderström | Apotekens Service</title>
+    <link>/author/stellan-soderstrom/</link>
+      <atom:link href="/author/stellan-soderstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stellan Söderström</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>sv-se</language><copyright>© 2020 Apotekens Service Sverige AB</copyright>
+    <image>
+      <url>/images/logo.svg</url>
+      <title>Stellan Söderström</title>
+      <link>/author/stellan-soderstrom/</link>
+    </image>
+    
+  </channel>
+</rss>
